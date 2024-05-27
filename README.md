@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip Nachov</h1>
 <h3 align="center">A passionate programmer</h3>
 
-<p align="left"> <a href="https://twitter.com/codelazy" target="blank"><img src="https://img.shields.io/twitter/follow/codelazy?logo=twitter&style=for-the-badge" alt="codelazy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/GamesrulerN1" target="blank"><img src="https://img.shields.io/twitter/follow/codelazy?logo=twitter&style=for-the-badge" alt="codelazy" /></a> </p>
 
 - 🌱 I’m currently learning **Flask, Polars, docker**
 
@@ -21,8 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/codelazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codelazy" height="30" width="40" /></a>
-<a href="https://kaggle.com/filip nachov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="filip nachov" height="30" width="40" /></a>
 <a href="https://medium.com/@Fnachov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@filipnachov" height="30" width="40" /></a>
 <a href="https://discord.gg/codelazy." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="codelazy." height="30" width="40" /></a>
 </p>
