@@ -6,7 +6,7 @@
 
 <img align="right" src="https://i.pinimg.com/originals/e8/c9/28/e8c928879223816651ec0e885932fdea.jpg" width=300 height="300">
 
-- ⌨️ I'm currently working on **Control** (https://github.com/Filip-Nachov/Control)
+- ⌨️ I'm currently contributing to open-source and doing projects on my own and with other people 
 
 - 🌱 I’m currently learning **Flask, Polars, docker**
 
