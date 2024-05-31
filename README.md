@@ -21,8 +21,7 @@
 - ⚡ Fun fact **I like to solve logic problems**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[How to contribute to open source](https://medium.com/@fnachov/how-to-contribute-to-open-source-a2abe5e1e6a4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
