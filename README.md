@@ -29,6 +29,7 @@
 <a href="https://kaggle.com/filip nachov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="filipnachov" height="30" width="40" /></a>
 <a href="https://medium.com/@Fnachov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@filipnachov" height="30" width="40" /></a>
 <a href="https://discord.gg/codelazy." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="codelazy." height="30" width="40" /></a>
+<a href="https://discord.gg/xxP6sDZ2dz" target="blank"><img align="center" src="https://wallpapercave.com/wp/wp6064332.jpg"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
