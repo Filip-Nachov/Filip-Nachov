@@ -8,7 +8,7 @@
 
 - ⌨️ I'm currently contributing to open-source and doing projects on my own and with other people 
 
-- 🌱 I’m currently learning **Flask, Polars, docker**
+- 🌱 I’m currently learning **rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Filip-Nachov](https://github.com/Filip-Nachov)
 
