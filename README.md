@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@fnachov](https://medium.com/@fnachov)
 
-- 💬 Ask me about **Machine learning, AI, data science or software development(app dev and web dev)**
+- 💬 Ask me about **anything code related I would love to discuss and help**
 
 - 📫 How to reach me **fnachov@gmail.com**
 
