@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello World, I'm Filip Nachov</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">A programmer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/GamesrulerN" target="blank"><img src="https://img.shields.io/twitter/follow/codelazy?logo=twitter&style=for-the-badge" alt="codelazy" /></a> </p>
