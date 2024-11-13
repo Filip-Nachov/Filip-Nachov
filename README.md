@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **I like to solve logic problems**
 
+- 🌐 Join my **discord server** https://discord.gg/RYhVjUtkeV
+
 
 
 <h3 align="left">Connect with me:</h3>
