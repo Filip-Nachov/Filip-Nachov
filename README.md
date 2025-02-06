@@ -44,7 +44,7 @@
 <div style="display: flex; justify-content: space-between;">
     <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filip-Nachov&layout=compact&theme=gruvbox&hide_border=true" /></p>
     <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Filip-Nachov&show_icons=true&theme=gruvbox&border_radius=7.5&hide_border=true" alt="filip-nachov" /></p>
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Filip-Nachov&theme=gruvbox&border_radius=7.5&hide_border=true" alt="filip-nachov" /></p>
+    <p align="center"><img align="center" src="https://camo.githubusercontent.com/f6410f51b1666f56c77e67f1ac1604e8b43b064d9eb3e7f23228044cecedb35f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d46696c69702d4e6163686f76267468656d653d67727576626f7826626f726465725f7261646975733d372e3526686964655f626f726465723d74727565" alt="filip-nachov" /></p>
 </div>
 
 
