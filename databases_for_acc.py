@@ -1,24 +1,20 @@
 user_data_list = []
 
 def get_info():
-    name = str(input("Enter your full name: "))
-    email = str(input("Enter your email: "))
+    name = input("Enter your full name: ")
+    email = input("Enter your email: ")
     password = input("Enter your password: ")
-    try:
-        name = str(name)
-        email = str(email)
-    except ValueError:
-        return f"The email or the name isn't a string {email} {name}"
 
-    age = int(input("Enter your age: "))
-    try:
-        age = int(age)
-    except ValueError:
-        print(f"The age entered is not an actual number {age}")
+    while True:
+        try:
+            age = int(input("enter your age: "))
+            break
+        except ValueError:
+            print(f"The age entered is not an actual number {age}")
 
-    password1 = input("Confirm your password: ")
+    PasswordConfirm = input("Confirm your password: ")
 
-    if password1 != password:
+    if PasswordConfirm != password:
         print("Your passwords don't match")
     else:
         user_info = {
@@ -27,10 +23,9 @@ def get_info():
             'age': age,
             'password': password
         }
+        
         user_data_list.append(user_info)
-        print(f"Hello, {name}! You have successfully registered an account with us")
-        print(email)
-        print(age)
+        print(f"Hello, {name}! You have successfully registered an account with us under the email {email}, you are also {age} years old")
 
 # Function to log in
 def login():
@@ -41,6 +36,7 @@ def login():
         if user['email'] == email and user['password'] == password:
             print(f"Welcome back, {user['name']}!")
             return
+            
     print("Invalid email or password. Please try again or create a new account.")
 
 # Example usage
