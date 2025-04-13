@@ -1,24 +1,21 @@
+# this code is 2 years old and not for usage even tho it works I made this to test uploading on github hence why I uploaded it to the special reposetory
 user_data_list = []
 
 def get_info():
-    name = str(input("Enter your full name: "))
-    email = str(input("Enter your email: "))
+    name = input("Enter your full name: ")
+    email = input("Enter your email: ")
     password = input("Enter your password: ")
-    try:
-        name = str(name)
-        email = str(email)
-    except ValueError:
-        return f"The email or the name isn't a string {email} {name}"
+    
+    age = input("Enter your age: ")
+    while True:
+        try:
+            age = int(age)
+        except ValueError:
+            print(f"The age entered is not an actual number {age}")
 
-    age = int(input("Enter your age: "))
-    try:
-        age = int(age)
-    except ValueError:
-        print(f"The age entered is not an actual number {age}")
+    passwordConfirmation = input("Confirm your password: ")
 
-    password1 = input("Confirm your password: ")
-
-    if password1 != password:
+    if passwordConfirmation != password:
         print("Your passwords don't match")
     else:
         user_info = {
@@ -29,8 +26,8 @@ def get_info():
         }
         user_data_list.append(user_info)
         print(f"Hello, {name}! You have successfully registered an account with us")
-        print(email)
-        print(age)
+        print(f"email: {email}\nName:{name}")
+
 
 # Function to log in
 def login():
