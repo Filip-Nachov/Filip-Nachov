@@ -5,10 +5,6 @@
   <a href="https://twitter.com/GamesrulerN"><img src="https://img.shields.io/twitter/follow/GamesrulerN?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e8/c9/28/e8c928879223816651ec0e885932fdea.jpg" width="250" alt="me-but-mysterious" />
-</p>
-
 ---
 
 <h3 align="center">About Me</h3>
